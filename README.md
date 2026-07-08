@@ -18,7 +18,7 @@
 
 # 📖 Overview
 
-Enterprise organizations often rely on **brownfield applications**—large, legacy software systems that have evolved over years of continuous development. Modernizing these systems is challenging due to tightly coupled architectures, undocumented dependencies, and the high risk associated with manual code modifications.
+Enterprise organizations often rely on **brownfield applications**:large, legacy software systems that have evolved over years of continuous development. Modernizing these systems is challenging due to tightly coupled architectures, undocumented dependencies, and the high risk associated with manual code modifications.
 
 **Brownfield AI Modernization Agent** is an **Agentic AI-powered software modernization platform** designed to automate this process. The system intelligently analyzes existing applications, understands enhancement requests, performs dependency-aware impact analysis, retrieves contextual engineering knowledge through Retrieval-Augmented Generation (RAG), generates implementation plans, proposes code modifications, validates generated outputs, and enables Human-in-the-Loop approval before applying changes.
 
