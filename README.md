@@ -68,29 +68,29 @@ This project addresses these challenges through an **Agentic AI architecture** c
                      Repository Ingestion Agent
                                  │
                                  ▼
-                   Architecture Detection Agent
+                    Architecture Detection Agent
                                  │
                                  ▼
-                Static Program Analysis (AST)
+                   Static Program Analysis (AST)
                                  │
                                  ▼
-          Dependency Graph Construction (NetworkX)
+               Dependency Graph Construction (NetworkX)
                                  │
                                  ▼
-      Retrieval-Augmented Knowledge Retrieval (RAG)
+             Retrieval-Augmented Knowledge Retrieval (RAG)
                      (Milvus Lite Vector Store)
                                  │
                                  ▼
-            Planning & Code Generation (LLM)
+                  Planning & Code Generation (LLM)
                                  │
                                  ▼
-          Validation & Security Assessment
+                  Validation & Security Assessment
                                  │
                                  ▼
-             Human-in-the-Loop Approval
+                     Human-in-the-Loop Approval
                                  │
                                  ▼
-              Modernized Brownfield Application
+                  Modernized Brownfield Application
 ```
 
 ---
