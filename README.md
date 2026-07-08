@@ -328,7 +328,3 @@ B.Tech Computer Science (AI & ML)
 Passionate about Agentic AI, Software Modernization, Retrieval-Augmented Generation (RAG), Large Language Models, and Enterprise AI Systems.
 
 📫 Feel free to connect and collaborate!
-
----
-
-⭐ **If you found this project interesting, consider giving it a star!**
