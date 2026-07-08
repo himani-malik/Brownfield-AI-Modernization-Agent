@@ -1,5 +1,7 @@
 # 🚀 Enterprise Agentic AI Platform for Brownfield Application Modernization
 
+### Brownfield AI Modernization Agent
+
 > **An enterprise-grade, graph-orchestrated multi-agent AI platform that leverages static program analysis, Retrieval-Augmented Generation (RAG), dependency-aware impact analysis, and LLM-assisted code transformation to intelligently modernize three-tier brownfield applications.**
 
 <p align="center">
@@ -317,11 +319,15 @@ Persist Modernized Code
 
 ---
 
-# 👩‍💻 Author
+## 👩‍💻 Author
 
 **Himani Malik**
 
-B.Tech Computer Science (AI & ML) • AI Engineer • Agentic AI • RAG • Enterprise AI • Software Modernization
+B.Tech Computer Science (AI & ML)
+
+Passionate about Agentic AI, Software Modernization, Retrieval-Augmented Generation (RAG), Large Language Models, and Enterprise AI Systems.
+
+📫 Feel free to connect and collaborate!
 
 ---
 
